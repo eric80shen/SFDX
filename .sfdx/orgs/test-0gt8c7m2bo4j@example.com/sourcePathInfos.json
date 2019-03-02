@@ -1,0 +1,220 @@
+[
+    [
+        "c:\\Users\\bwing\\iCloudDrive\\Work\\Workspaces\\my_sfdx_project\\gelocation\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\bwing\\iCloudDrive\\Work\\Workspaces\\my_sfdx_project\\gelocation\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551502711358,
+            "changeTime": 1551502711358,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Users\\bwing\\iCloudDrive\\Work\\Workspaces\\my_sfdx_project\\gelocation\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\bwing\\iCloudDrive\\Work\\Workspaces\\my_sfdx_project\\gelocation\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551502711358,
+            "changeTime": 1551502711358,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\bwing\\iCloudDrive\\Work\\Workspaces\\my_sfdx_project\\gelocation\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\bwing\\iCloudDrive\\Work\\Workspaces\\my_sfdx_project\\gelocation\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551503359268,
+            "changeTime": 1551503359268,
+            "contentHash": "7af1e1622268d15ee145ab4e619ec72e2e761772"
+        }
+    ],
+    [
+        "c:\\Users\\bwing\\iCloudDrive\\Work\\Workspaces\\my_sfdx_project\\gelocation\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\bwing\\iCloudDrive\\Work\\Workspaces\\my_sfdx_project\\gelocation\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551502711358,
+            "changeTime": 1551502711358,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\bwing\\iCloudDrive\\Work\\Workspaces\\my_sfdx_project\\gelocation\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\bwing\\iCloudDrive\\Work\\Workspaces\\my_sfdx_project\\gelocation\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551502774541,
+            "changeTime": 1551502774541,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\bwing\\iCloudDrive\\Work\\Workspaces\\my_sfdx_project\\gelocation",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\bwing\\iCloudDrive\\Work\\Workspaces\\my_sfdx_project\\gelocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551502764776,
+            "changeTime": 1551502764776,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\bwing\\iCloudDrive\\Work\\Workspaces\\my_sfdx_project\\gelocation\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\bwing\\iCloudDrive\\Work\\Workspaces\\my_sfdx_project\\gelocation\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6383,
+            "modifiedTime": 1551503359247,
+            "changeTime": 1551503359247,
+            "contentHash": "53153da293978b02d191b6ae64f72eae1e200c56"
+        }
+    ],
+    [
+        "c:\\Users\\bwing\\iCloudDrive\\Work\\Workspaces\\my_sfdx_project\\gelocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\bwing\\iCloudDrive\\Work\\Workspaces\\my_sfdx_project\\gelocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 403,
+            "modifiedTime": 1551503359256,
+            "changeTime": 1551503359256,
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
+        }
+    ],
+    [
+        "c:\\Users\\bwing\\iCloudDrive\\Work\\Workspaces\\my_sfdx_project\\gelocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\bwing\\iCloudDrive\\Work\\Workspaces\\my_sfdx_project\\gelocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9582,
+            "modifiedTime": 1551503359265,
+            "changeTime": 1551503359265,
+            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278"
+        }
+    ],
+    [
+        "c:\\Users\\bwing\\iCloudDrive\\Work\\Workspaces\\my_sfdx_project\\gelocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\bwing\\iCloudDrive\\Work\\Workspaces\\my_sfdx_project\\gelocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 400,
+            "modifiedTime": 1551503359269,
+            "changeTime": 1551503359269,
+            "contentHash": "9e3d68621a39b7479dfced717099119091711d32"
+        }
+    ],
+    [
+        "c:\\Users\\bwing\\iCloudDrive\\Work\\Workspaces\\my_sfdx_project\\gelocation\\force-app\\main\\default\\settings",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\bwing\\iCloudDrive\\Work\\Workspaces\\my_sfdx_project\\gelocation\\force-app\\main\\default\\settings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551503359246,
+            "changeTime": 1551503359246,
+            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb"
+        }
+    ],
+    [
+        "c:\\Users\\bwing\\iCloudDrive\\Work\\Workspaces\\my_sfdx_project\\gelocation\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\bwing\\iCloudDrive\\Work\\Workspaces\\my_sfdx_project\\gelocation\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551503359256,
+            "changeTime": 1551503359256,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+        }
+    ],
+    [
+        "c:\\Users\\bwing\\iCloudDrive\\Work\\Workspaces\\my_sfdx_project\\gelocation\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\bwing\\iCloudDrive\\Work\\Workspaces\\my_sfdx_project\\gelocation\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551503359255,
+            "changeTime": 1551503359255,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "c:\\Users\\bwing\\iCloudDrive\\Work\\Workspaces\\my_sfdx_project\\gelocation\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\bwing\\iCloudDrive\\Work\\Workspaces\\my_sfdx_project\\gelocation\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551503359255,
+            "changeTime": 1551503359255,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "c:\\Users\\bwing\\iCloudDrive\\Work\\Workspaces\\my_sfdx_project\\gelocation\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\bwing\\iCloudDrive\\Work\\Workspaces\\my_sfdx_project\\gelocation\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551503359265,
+            "changeTime": 1551503359265,
+            "contentHash": "b2aa44986320a18245301bea220f7fe3f37f55d0"
+        }
+    ],
+    [
+        "c:\\Users\\bwing\\iCloudDrive\\Work\\Workspaces\\my_sfdx_project\\gelocation\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\bwing\\iCloudDrive\\Work\\Workspaces\\my_sfdx_project\\gelocation\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551503359268,
+            "changeTime": 1551503359268,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+        }
+    ]
+]
